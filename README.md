@@ -1,6 +1,7 @@
 # cyber-security-internship-task5
-Network Traffic Capture &amp; Analysis 
+ 
 Task 5: Network Traffic Capture & Analysis Report
+
 Name: SUHAS MHASKE
 Tool Used: Wireshark
 Capture File: task5.pcapng
